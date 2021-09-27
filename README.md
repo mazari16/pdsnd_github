@@ -1,4 +1,7 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+>**Note**: we **fork** the current Udacity repository from https://github.com/udacity/pdsnd_github.git
+than we Clone the remote repository to our local machine. 
+Later, we Posted the Work on Github", 
+we pushed the proposed changes to the remote repository in our Github account.
 
 ### Date created
 23/09/2021.
