@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
 
 import time
 import pandas as pd
@@ -202,9 +197,19 @@ def raw_data(df):
             view_display = input("Do you wish to continue?: ").lower()
             if view_display.lower() != 'yes':
                 break
+<<<<<<< HEAD
 
 
 def main():
+||||||| d0e6821
+    
+def main():
+=======
+
+
+# noinspection PyTypeChecker
+def main() -> object:
+>>>>>>> refactoring
     while True:
         city, month, day = get_filters()
         df = load_data(city, month, day)
@@ -221,4 +226,17 @@ def main():
 
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     main()
+||||||| d0e6821
+	main()
+
+
+# In[ ]:
+
+
+
+
+=======
+    main()
+>>>>>>> refactoring
